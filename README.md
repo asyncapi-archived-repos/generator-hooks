@@ -1,3 +1,6 @@
+> [!Warning]
+> Hooks are now part of generator repository and also out of the box integrated with the generator, so no need to set it as dependency any more: https://github.com/asyncapi/generator/releases/tag/%40asyncapi%2Fgenerator%402.5.0. NPM package is no longer published.
+
 # Generator Hooks
 
 This is a library with [generator](https://github.com/asyncapi/generator/) hooks that are used in more than one template. Use these hooks to not double your work. Read Generator documentation to understand how to configure your template to use external hooks.
